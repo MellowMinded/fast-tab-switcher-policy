@@ -1,0 +1,1 @@
+# fast-tab-switcher-policy
